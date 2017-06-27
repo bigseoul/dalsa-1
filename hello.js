@@ -1,1 +1,1 @@
-console.log("메인 페이지");
+console.log("메인 페이지 다정");
